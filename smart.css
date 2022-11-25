@@ -1,0 +1,18 @@
+li:hover{
+    background-color: red;
+}
+li:active{
+    background-color: seagreen;
+}
+li:onclick{
+    background-color: yellow;
+}
+#one{
+    float: left;
+}
+#two{
+    float: left;
+}
+#three{
+    float: left;
+}
